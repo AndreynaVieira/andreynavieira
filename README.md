@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%F0%9F%9A%80+Bem-vindo+ao+Meu+Universo!+%F0%9F%8C%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%F0%9F%9A%80+Bem-vindo(a)+ao+Meu+Universo!+%F0%9F%8C%8C" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -66,7 +66,6 @@ graph TD;
 
 ## 🌠 **Onde Me Encontrar?**
 <p align="center"> 
-  <a href="https://github.com/AndreynaVieira/andreynavieira"><img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github"></a> 
   <a href="https://www.linkedin.com/in/andreyna-vieira-b11a34163/"><img src="https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin"></a> 
   <a href="mailto:andreynavieira5@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF4500?style=for-the-badge&logo=gmail"></a> 
 </p>
