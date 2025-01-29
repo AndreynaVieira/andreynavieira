@@ -66,8 +66,8 @@ graph TD;
 
 ## 🌠 **Onde Me Encontrar?**
 <p align="center"> 
-  <a href="https://github.com/AndreynaVieira"><img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github"></a> 
-  <a href="https://www.linkedin.com/in/AndreynaVieira"><img src="https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin"></a> 
+  <a href="https://github.com/AndreynaVieira/andreynavieira"><img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github"></a> 
+  <a href="https://www.linkedin.com/in/andreyna-vieira-b11a34163/"><img src="https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin"></a> 
   <a href="mailto:andreynavieira5@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF4500?style=for-the-badge&logo=gmail"></a> 
 </p>
 
