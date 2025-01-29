@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Bem-vindo+ao+Meu+Universo!+🌌" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Bem-vindo(a)+ao+Meu+Universo!+🌌" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 🚀 **Minhas Tecnologias**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,postgres,mysql,git,github,linux&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,postgres,mysql,git,github,sap&theme=dark">
 </p>
 
 ---
