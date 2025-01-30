@@ -9,7 +9,7 @@
 ---
 
 <h2 align="center">
-  🌠 Explorando Dados e o Universo da Tecnologia! 🌎
+   Explorando Dados e o Universo da Tecnologia! 
 </h2>
 
 <p align="center">
