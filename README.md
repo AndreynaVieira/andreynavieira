@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%F0%9F%9A%80+Bem-vindo(a)+ao+Meu+Universo!+%F0%9F%8C%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Bem-vindo(a)+ao+Meu+Universo!+" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,39 +9,39 @@
 ---
 
 <h2 align="center">
-   Explorando Dados e o Universo da Tecnologia! 
+    Explorando Dados e o Universo da Tecnologia! 🌍
 </h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Status-Estagi%C3%A1ria%20de%20Dados%20|%20Tentando%20n%C3%A3o%20derrubar%20o%20banco%20de%20dados-1E90FF?style=flat-square">
+    <img src="https://img.shields.io/badge/Status-Aprendendo%20e%20evoluindo%20na%20an%C3%A1lise%20de%20dados-1E90FF?style=flat-square">
     <img src="https://img.shields.io/badge/SQL-MySQL%20|%20PostgreSQL%20|%20SAP%20HANA-00CED1?style=flat-square">
     <img src="https://img.shields.io/badge/Ferramentas-Power%20BI%20|%20Excel%20|%20Python-32CD32?style=flat-square">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Aprendendo%20e%20descobrindo%20como%20n%C3%A3o%20quebrar%20o%20c%C3%B3digo-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Testando%20c%C3%B3digos%20e%20aprendendo%20no%20processo-orange?style=flat-square">
 </p>
 
 ---
 
-## 🌌 Sobre Mim
-✨ Sou uma **estagiária de dados tentando não quebrar tudo logo no primeiro dia!** 😆  
-📊 Trabalho com **Power BI, SQL, Python, Excel e SAP** enquanto descubro como fazer as queries rodarem sem erro.  
-🌠 Meu objetivo é **transformar dados em insights valiosos e sobreviver até o final do estágio!**  
+##  Sobre Mim
+✨ Exploradora do universo dos dados, em constante aprendizado e desenvolvimento! 😆  
+📊 Atualmente estudando **Power BI, SQL, Python, Excel e SAP** e aprimorando habilidades em análise de dados.  
+🌠 Meu objetivo é **transformar dados em insights estratégicos e crescer profissionalmente na área de tecnologia!**  
 
 ---
 
-## 🚀 **Minhas Tecnologias**
+##  **Minhas Tecnologias**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,postgres,mysql,git,github,linux&theme=dark">
 </p>
 
 ---
 
-## 🌎 **Minha Jornada de Aprendizado**
+##  **Minha Jornada de Aprendizado**
 ```mermaid
 graph TD;
-  Python --> Analise_de_Dados;
+  Python --> An%C3%A1lise_de_Dados;
   Python --> Machine_Learning;
   SQL --> Banco_de_Dados;
-  Excel --> Automaçao;
+  Excel --> Automação;
   SAP --> Business_Intelligence;
   Power_BI --> Dashboards;
 ```
@@ -49,29 +49,28 @@ graph TD;
 
 ---
 
-## 📊 **Estatísticas do Meu GitHub**
+##  **Estatísticas do Meu GitHub**
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreynaVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreynaVieira&theme=neon-palenight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AndreynaVieira&show_icons=true&theme=tokyonight&hide=contribs,prs"/> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreynaVieira&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌟 **Conquistas**
+##  **Conquistas**
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreynaVieira&theme=onestar&column=4"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=AndreynaVieira&theme=dracula&column=6&no-bg=true&no-frame=true"/> 
 </p>
 
 ---
 
-## 🌠 **Onde Me Encontrar?**
+##  **Onde Me Encontrar?**
 <p align="center"> 
   <a href="https://www.linkedin.com/in/andreyna-vieira-b11a34163/"><img src="https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin"></a> 
   <a href="mailto:andreynavieira5@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF4500?style=for-the-badge&logo=gmail"></a> 
 </p>
 
-<h4 align="center"> E lembre-se: Dados são como café: se bem filtrados, te mantêm acordado. Se não, só te dão dor de cabeça!☕😆 <br><br> 
-    Obrigada pela visita!</h4>
+<h4 align="center">📊 Dados são como café: se bem filtrados, te mantêm acordado. Se não, só te dão dor de cabeça! ☕😆 <br><br> Obrigada pela visita!</h4>
 <p align="center"> 
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150px"> 
 </p>
