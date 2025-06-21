@@ -16,10 +16,10 @@
 
 ###  Sobre Mim
 
-- 🎓 Estudante e profissional em evolução na área de Business Intelligence.
-- 🧠 Apaixonada por resolver problemas de forma visual, analítica e criativa.
-- 🔧 Atualmente estudando e aplicando: **Qlik Sense**, **n8n**, **Python**, **SQL** e **integrações com APIs**.
-- 🌍 Meu objetivo é: automatizar processos, facilitar decisões e gerar impacto real com dados!  
+-  Estudante e profissional em evolução na área de Business Intelligence.
+-  Apaixonada por resolver problemas de forma visual, analítica e criativa.
+-  Atualmente estudando e aplicando: **Qlik Sense**, **n8n**, **Python**, **SQL** e **integrações com APIs**.
+-  Meu objetivo é: automatizar processos, facilitar decisões e gerar impacto real com dados!  
 
 ---
 
