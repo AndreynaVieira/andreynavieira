@@ -12,57 +12,41 @@
     Explorando Dados e o Universo da Tecnologia! 🌍
 </h2>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Status-Aprendendo%20e%20evoluindo%20na%20an%C3%A1lise%20de%20dados-1E90FF?style=flat-square">
-    <img src="https://img.shields.io/badge/SQL-MySQL%20|%20PostgreSQL%20|%20SAP%20HANA-00CED1?style=flat-square">
-    <img src="https://img.shields.io/badge/Ferramentas-Power%20BI%20|%20Excel%20|%20Python-32CD32?style=flat-square">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Testando%20c%C3%B3digos%20e%20aprendendo%20no%20processo-orange?style=flat-square">
-</p>
+---
+
+###  Sobre Mim
+
+- 🎓 Estudante e profissional em evolução na área de Business Intelligence.
+- 🧠 Apaixonada por resolver problemas de forma visual, analítica e criativa.
+- 🔧 Atualmente estudando e aplicando: **Qlik Sense**, **n8n**, **Python**, **SQL** e **integrações com APIs**.
+- 🌍 Meu objetivo é: automatizar processos, facilitar decisões e gerar impacto real com dados!  
 
 ---
 
-##  Sobre Mim
-✨ Exploradora do universo dos dados, em constante aprendizado e desenvolvimento! 😆  
-📊 Atualmente estudando **Power BI, SQL, Python, Excel e SAP** e aprimorando habilidades em análise de dados.  
-🌠 Meu objetivo é **transformar dados em insights estratégicos e crescer profissionalmente na área de tecnologia!**  
+###  Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-F26B00?style=flat&logo=n8n&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/QlikSense-009845?style=flat&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+---
+
+###  Projetos em Destaque (em breve)
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **[Automação de Propriedade no Pipedrive com n8n]** | Atualiza o proprietário de pessoas com base na organização automaticamente. | n8n · API Pipedrive |
+| **[Dashboard Comercial de Vendas]** | Criação de pipeline com Python + SQL + Power BI com insights para decisões comerciais. | Python · SQL · Power BI |
+| **[Análise de desempenho de campanhas]** | Extração e automação de relatórios via n8n + visualização em Qlik Sense. | n8n · Qlik Sense · Python |
+
+---
+📌 Testando códigos, quebrando tudo e aprendendo no processo!
 
 ---
 
-##  **Minhas Tecnologias**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,postgres,mysql,git,github,linux&theme=dark">
-</p>
-
----
-
-##  **Minha Jornada de Aprendizado**
-```mermaid
-graph TD;
-  Python --> An%C3%A1lise_de_Dados;
-  Python --> Machine_Learning;
-  SQL --> Banco_de_Dados;
-  Excel --> Automação;
-  SAP --> Business_Intelligence;
-  Power_BI --> Dashboards;
-```
-📌 Testando códigos, quebrando tudo e aprendendo no processo! 🚀
-
----
-
-##  **Estatísticas do Meu GitHub**
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AndreynaVieira&show_icons=true&theme=tokyonight&hide=contribs,prs"/> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreynaVieira&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-##  **Conquistas**
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreynaVieira&theme=dracula&column=6&no-bg=true&no-frame=true"/> 
-</p>
-
----
 
 ##  **Onde Me Encontrar?**
 <p align="center"> 
